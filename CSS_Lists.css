@@ -1,0 +1,9 @@
+/* Change ordered list to Roman numerals */
+ol {
+  list-style-type: upper-roman;
+}
+
+/* Change unordered list to square bullets */
+ul {
+  list-style-type: square;
+}
